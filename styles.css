@@ -8,3 +8,10 @@
 body {
     height: 100vh;
 }
+
+.side-nav {
+    display: block;
+    width: 18rem;
+    height: 100vh;
+    position: fixed;
+}
