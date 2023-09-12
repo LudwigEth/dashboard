@@ -8,6 +8,10 @@ body {
     height: 100vh;
 }
 
+.wrapper {
+    padding-left: 18rem;
+}
+
 .side-nav {
     display: block;
     width: 18rem;
@@ -16,6 +20,3 @@ body {
     background-color: #ffeffe;
 }
 
-.wrapper {
-    padding-left: 19rem;
-}
