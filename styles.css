@@ -20,3 +20,10 @@ body {
     background-color: #ffeffe;
 }
 
+.header {
+    display: block;
+    width: 100%;
+    background-color: #beeebb;
+    height: 8rem;
+    padding-left: 2rem;
+}
