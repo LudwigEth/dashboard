@@ -15,3 +15,7 @@ body {
     height: 100vh;
     position: fixed;
 }
+
+.wrapper {
+    padding-left: 19rem;
+}
